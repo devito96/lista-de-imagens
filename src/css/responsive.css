@@ -1,0 +1,15 @@
+@media (max-width:868px){
+
+    .container {
+        height: 100vh;
+    }
+
+    .lista {
+        flex-direction: column;
+    }
+
+    .lista li {
+        flex-wrap: wrap;
+    }
+
+}
